@@ -1,8 +1,8 @@
-version: 0.1.3
+version: 0.1.7
 files:
-  - url: Voiceclass-Setup-0.1.3.exe
-    sha512: 6wQwvpmVXAQY7i4S7deDfecs0XKiqXQRi+VrCIOk8luv+P/8yvH/lqylb936yMURBX/CHLZ/Z8VOYZ1jIZRBLg==
-    size: 63067611
-path: Voiceclass-Setup-0.1.3.exe
-sha512: 6wQwvpmVXAQY7i4S7deDfecs0XKiqXQRi+VrCIOk8luv+P/8yvH/lqylb936yMURBX/CHLZ/Z8VOYZ1jIZRBLg==
-releaseDate: '2022-08-25T13:26:20.527Z'
+  - url: Voiceclass-Setup-0.1.7.exe
+    sha512: Imgwx4kgyE92MysSRNdF0MXsxaQgNyVR1N3wUL0/lKKz0ihKW9yxXzDI9o9O5VYSLmMyBvY19MEUcLK6dZ5k4w==
+    size: 63070557
+path: Voiceclass-Setup-0.1.7.exe
+sha512: Imgwx4kgyE92MysSRNdF0MXsxaQgNyVR1N3wUL0/lKKz0ihKW9yxXzDI9o9O5VYSLmMyBvY19MEUcLK6dZ5k4w==
+releaseDate: '2022-08-25T14:48:30.224Z'
